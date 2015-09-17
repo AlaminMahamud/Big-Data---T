@@ -1,0 +1,84 @@
+Unstructured Data
+
+structured Data: SpreadSheet
+
+Sport ---- Team
+Soccer     Manchestar United
+Soccer     FC Barcelona
+Football   OakLand Raiders
+Football   Tennessee Titans
+
+
+Unstructured Data: Text
+
+"Two Prominent soccer teams in Europe are Manchestar United and FC Barcelona"
+
+"Two NFL Football teams in America are the OakLand Raiders and the Tennessee Titans"
+
+[Much More Difficult to Understand By Machines]
+
+
+Data is not fixed fields
+Text, Presentation, images etc;
+The Majority of business data
+Convert then use text-mining program
+Difficult and time consuming
+
+Semi Structured Data
+
+	Fields are marked, data are identifiable
+	XML
+	JSON
+
+XML
+	<sports>
+		<soccer>
+			<team>Manchestar United</team>
+			<team>FC Barcelona</team>
+		</soccer>
+		<football>
+			<team>OakLand Raiders</team>
+			<team>Tenneesse Titans</team>
+		</football>
+	</sports>
+
+
+JSON
+
+{
+	"sports" : {
+					"soccer" : {
+								"team":[
+										"Manchestar United",
+										"FC Barcelona"
+									   ]
+							   },
+					"football" : {
+								"team" : 
+										[
+											"OakLand Raiders",
+											"Tenneesse Titans"
+										]
+							     }
+			   }
+}
+
+
+
+Semistructured Data and Unstructured data
+	is stored into NoSQL Databases
+
+	# Use a Semi-structured Format
+	# MongoDB uses JSON
+	# Flexible Structure and often Faster
+
+   16% vs 79% for relational Databases
+
+
+   hadoop is a nosql Database
+   No Standardized query language
+   
+
+
+
+
