@@ -1,0 +1,24 @@
+Ten Ways Big Data is Different from Small Data
+
+# Goals
+
+Small Data
+
+X -> Y
+
+Big Data
+
+?	Y 	?
+Y<- X ->Y
+?   Y 	?
+
+# Location
+# Data Structure
+# Data Preparation
+# Longevity
+# Measurements
+# Reproducibility
+# Stakes
+# Introspection
+# Analysis
+
