@@ -1,0 +1,18 @@
+Challenges with Data Quality
+
+Some researchers specified that 95% of spreadsheets have errors
+
+Possible Errors
+
+	Incomplete or corrupted Data
+	Duplicate reords
+	Typographical Errors
+	Data that is missing context
+	Incomplete Transformation
+1. Normal Methods for checking may not be present
+2. if data stays in Hadoop, it may not need to be converted 
+3. If data is not converted, it may not be examined
+
+
+
+
