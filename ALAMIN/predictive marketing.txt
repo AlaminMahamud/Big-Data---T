@@ -1,0 +1,14 @@
+Predictive Marketing
+
+# predicts major life events
+# looks at consumer behavior
+# Uses demographic info
+# Can Purchase More Data
+
+Fraud Detection
+
+# Point Of Sale
+# Geolocation and IP address
+# Login Time
+# Biometrics
+
