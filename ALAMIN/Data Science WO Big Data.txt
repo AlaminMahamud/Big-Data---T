@@ -23,7 +23,7 @@ Wikibon.org
 	20 TB info per engine each hour
 
 	for a year
-
+ 	
 	20TB * 2(2 engine) * 6(6 hour) * 28537(number of flights in the united states) * 365(days in a year))
 
 	= 2,499,841,200 TB
