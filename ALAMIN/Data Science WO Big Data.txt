@@ -1,0 +1,44 @@
+Data Science W/O Big Data
+
+# Volume 
+	Consistent Format
+	Without Velocoty 
+	 		Variety
+
+Example -> Genetics [nature reviews in genetics]
+		
+# Velocity [data streaming mining]
+
+	Advanced National Seismic System
+	Earthquake Detection
+
+# Variety
+	Face Detection
+	892 Ways to partition a 3*4 grid
+
+
+Wikibon.org
+	BigData on Aviation Industry
+	Sensor Data from a cross country fight
+	20 TB info per engine each hour
+
+	for a year
+
+	20TB * 2(2 engine) * 6(6 hour) * 28537(number of flights in the united states) * 365(days in a year))
+
+	= 2,499,841,200 TB
+
+
+computing now	
+	Servelliance Video : The Biggest Big Data
+
+Google Books
+	30 million books
+	
+
+
+
+
+
+
+
