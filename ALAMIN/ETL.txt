@@ -1,0 +1,32 @@
+ETL
+
+E - Extract
+T - Transform
+L - Load
+
+Extract
+The process of pulling data from storage such as a database
+
+Transform
+The process of putting all data into command format
+
+Load 
+The Process of loading data into software for analysis
+
+Sources
+	Word Files
+	HTML pages
+	Email
+	PDFs
+
+Destination
+	Plain Text
+	Markdon
+
+
+ETL in Big Data Works Differently
+	Data Starts and ends in Hadoop
+	Hadoop can handle different formats
+	It does'n't require as much inspection
+	Make it a point to inspect the data
+
