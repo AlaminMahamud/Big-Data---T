@@ -1,0 +1,16 @@
+Structured data
+
+# SpreadSheets
+# Relational Databases
+# History of SQL
+	SEQUEL Developed at IBM
+	Name Changed to SQL
+	Launched By Oracle in 1979
+
+SQL Select Statement 1
+
+SELECT gender, college, department, major
+FROM students;
+WHERE age>25;
+
+SQL SELECT Statement 2
