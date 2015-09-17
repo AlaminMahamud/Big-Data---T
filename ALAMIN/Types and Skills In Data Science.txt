@@ -1,0 +1,65 @@
+Types and Skills In Data Science
+
+# Analyze the Analyzers:
+	An Introspective Survey of Data Scientists and Their Work
+
+	- Harlan Harris
+	  Sean Murphy
+	  Marck Vaisman
+
+
+	1. Survey of 250 Data Science Practioners
+	2. Self-Ratings on Professional Identities
+	3. Self-Rankings on Relevant Skills
+	4. Profiles of Diverse Groups in Data Science
+
+	High level Of Divesity in their specifications
+
+# Professional Identities
+	
+	Data Developer
+		Developer Engineer
+	Data Researcher
+		Researcher Scientist Statistician
+	Data Creative 
+		Jack of All Trades Artist Hacker
+	Data Businessperson
+		Leader BusinessPerson Entrepreneur
+ 
+ # Five Skill Clusters
+
+ 	Business
+ 		Product Development
+ 		Business
+ 	
+ 	ML/Big Data
+ 		Unstructured Data
+ 		Structured Data
+ 		Machine Learning
+ 		Bing And Disturbed Data
+
+ 	Math/OR
+ 		Optimization
+ 		Math
+ 		Graphical Models
+ 		Bayesian/Monte Carlo Statistics
+ 		Algorithsm
+ 		Simulation
+
+ 	Programming
+ 		System administration
+ 		Back-End Programming
+ 		Front-End Programming
+ 	
+ 	Statistics
+ 		Visualization
+ 		Temporal Statistics
+ 		Surveys and Marketing
+ 		Spatial Statistics
+ 		Science
+ 		Data Manipulation
+ 		Classical Statistics
+
+# Crossed Identities And Skills
+	
+
