@@ -1,0 +1,57 @@
+A Brief Introduction to Hadoop
+
+What Is Hadoop?
+
+	Not a Single Product
+	A Collections of Applications
+	A Framework or Platforms
+	Consists of Several Modules
+
+HDFS
+	Hadoop distributed File System, used tot store files across many computers
+
+MapReduce
+	Critical Part Of Hadoop
+	Map Splits a task into pieces
+
+	Reduce Combines the ouput
+	Has been replaced by YARN
+	"Yet Another Resource Negotiator"
+	Stream Processing 
+	Growth Processing
+
+Pig
+	Writes MapReduce Programs
+	PigLatin Programming Lang
+
+Hive
+	Summarizes queries
+	Analyzes Data
+	Uses the HiveQL Language
+
+Additional Components
+	HBase
+	Storm
+	Spark
+	Giraph
+
+Where Does Hadoop Go?
+	Can be installed on any computer
+	Cloud providers are more common
+
+Who Uses Hadopp?
+	Yahoo - developed it
+	LinkedIn
+	Facbook
+	Quantcast
+
+Hadoop is Open Source
+	Developed by engineers at Yahoo!
+	Now an Open-Source Project
+	Hadoop is Free
+	Anyone can download or modify
+
+Hadoop is not one thing ít's a collection of things
+ 
+
+
