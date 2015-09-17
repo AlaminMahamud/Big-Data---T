@@ -1,0 +1,15 @@
+// 3rd Aspect Of Big Data
+// Variety
+
+# STRUCTURED TEXTS
+# UNSTRUCTURED TEXTS [80%]
+#  NOSQL : NOT ONLY SQL DATA
+	KEY-VALUE 
+	Column Family
+	GRAPH 
+	Document
+# ANALYTICAL(OLAP)
+	ONLINE ANALYTICAL PROCESSING
+	
+// Variety is the biggest factor which are leading company to big data
+
