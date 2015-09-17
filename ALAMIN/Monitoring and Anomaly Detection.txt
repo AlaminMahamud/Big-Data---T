@@ -1,0 +1,6 @@
+Monitoring and Anomaly Detection
+
+Monitoring
+	Detects specific events
+	Needs Specific cirterion/a
+	Triggers automatic response
