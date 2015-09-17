@@ -1,0 +1,39 @@
+Human Generated Data
+
+#Intentional Data
+	Photos, videos, audio
+	Text on social Network
+	Likes
+	Web Searches
+	WebPage bookmarked
+	Emails and text Messages
+	Cell Phone Calls
+	Ebook Highlights, nots etc
+	Online Purchases
+
+	(persons deliberately creates that)
+
+# Meta Data
+	Data about Data
+	"Second Order" Data
+	Machine Readable
+
+Photograph Exif Metadata
+	Exchangeable image format
+
+Cell Phone MetaData
+	Time and Locations of calls
+	4 points to identify 95%
+
+Email MetaData
+	Form, To, CC, and TimeStamp
+	MIT's Immersion (Web App) - immersion.media.mit.edu
+
+Cnet | What's TEchnically in your tweets?
+	Tweets are of 140 Characters a very small piece of data
+	but with that tweet an enormous amount of metadata is sent
+
+ 	That's Why Twitter has a very rich data-set for people who want's
+ 	marketing information
+
+ 
