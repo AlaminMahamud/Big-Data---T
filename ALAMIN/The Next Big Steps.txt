@@ -1,0 +1,16 @@
+The Next Big Steps
+
+Coding Courses
+	Up and Running With Bash Scripting
+	Up and Running With Python
+	Python 3 Essential Training
+
+Statistics Courses
+	Up and Running with R
+	R Statistics Essential Training
+	Interactive Data Visualization With Processing
+
+Databases Course
+	
+Domain Knowledge
+	

@@ -1,6 +1,26 @@
 Monitoring and Anomaly Detection
 
-Monitoring
-	Detects specific events
-	Needs Specific cirterion/a
-	Triggers automatic response
+# Monitoring 
+	Detects Specific Events
+	Needs Specific criterion/a
+	Triggers Automatic Respons
+
+# Anomaly Detection
+	Notifies of "unusual Activity"
+	Based On Flexible Criteria
+	Doesn't Trigger a response
+	Instead, invites inspection
+
+# Big Data allows more detail
+One-in-a Million Event
+
+With 10 Billion Cases, those events
+occur 10,000 times
+
+Email Spam Filter
+	Spam Evolves quickly
+	No Clear Rules
+	One user, not very effective
+	Many users, very effective
+
+

@@ -1,0 +1,23 @@
+Data Mining And Text Analysis
+	Finds Unexpected patterns
+	Identifies associations
+	Cluster people/cases
+
+Data Mining Applications
+	Supermarket coupons
+	Stock Investments
+	Predictive patients Illnesses
+	Tailored Online Advertising
+
+Text Mining
+	Focuses on content
+	Language is hard to process
+
+"Time flies like an arrow;
+ Fruit Flies like a banana."
+
+ Text Mining Applications
+ 	Sentiment Analysis
+ 	Polarity : +ve/-ve
+ 	Many Programs can do this
+ 	

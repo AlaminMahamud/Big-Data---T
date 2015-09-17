@@ -1,0 +1,20 @@
+The Role of Excel in Big Data
+
+Go to Where the people are
+	Excel is the most common data tool
+	Millions people use it
+	Professional Data miners use it
+	this is the 3rd most used tool by data miners
+	Excel can do real data science on its own
+
+	Data Smart: 
+		Using Data Science to transfomr information into Insight
+	John W.Foreman
+
+	ODBC[open database connectivity] interface s can connect Excel directly to Hadoop
+
+Excel for Sharing Results
+	Interactive Pivot Tables
+	Sortable Worksheets
+	Graphics and Charts
+

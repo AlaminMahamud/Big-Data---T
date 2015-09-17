@@ -1,0 +1,26 @@
+Visualization
+
+Humans As Visual Animals
+	Computer spot certain patterns
+	Computer excel at predictive models
+	Computer excel at Data mining
+	Humans Perceive and interpret better
+	Human Vision plays an important roles in big data  
+
+What Humans Do Well
+	Identifying Visual Patterns
+	Identifying Anomalies
+	Seeing Patterns across groups
+	Interpreting content of images
+
+Gestalt Patterns
+
+Vizzies - National Science Foundation
+
+Some Warnings
+	1. Prettier graphs are not always better
+	2. Animated or interactive graphs can be distracting
+	3. The goal of data visualization is insight
+	
+
+

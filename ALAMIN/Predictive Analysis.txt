@@ -1,0 +1,28 @@
+Predictive Analysis
+
+# Crystal Ball of Big Data
+
+Predictions based on past Data
+The desire isn't now
+
+How can you predict offensive player ability in baseball
+
+Traditional:
+	
+	# Batting Averages
+	# RBIs
+	# Stolen Bases
+
+Improved:
+	On-base %
+	Slugging %
+
+Nate Silver (of FiveThirtyEight)
+	Combined election poll Data
+	Weightened results by readability
+	Correctly predicted every state
+
+Netflix Prize
+	Goal: 10% improvement
+	Winner: Ensemble Models
+	see kaggle.com for more siimilar kinds of statistical analytics
