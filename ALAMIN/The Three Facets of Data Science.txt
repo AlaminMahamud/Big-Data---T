@@ -1,0 +1,28 @@
+The Three Facets of Data Science
+
+# Statistics
+	## birthday problem in Probability
+# Domain Knowledge
+	## Organizations already have people who know their own data better than
+	   mystical Data Scientists - this is a key
+
+	   The internal people already gained experience and ability to model,
+	   research and analyze.
+
+	   Learning HADOOP is easier than learning the company's business
+
+	   - Svetlana Sicular of Gartner, Inc.
+
+ # Coding 
+ 	## Python
+
+ # Statistics and Domain Knowledge
+ 	## Traditional Research
+
+ # Coding and Statistics
+ 	## Machine Learning
+
+ # Domain Knowledge and Coding
+ 	## Danger Zone
+ 	
+
