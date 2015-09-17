@@ -1,0 +1,41 @@
+Machine-Generated Data
+
+95% of worlds data cannot be seen by human eyes because 
+they are M2M (Machine TO Machine)data
+
+Soruces
+	# Cell Phones connecting to towers
+	# Satellite radio and GPS connecting
+	# RFID readings - Regular Frequency Identification Data
+	# Readings from Medical Devices
+	# Web Crawlers and spam bots
+
+The internet of things (IOT)
+
+In 2020 30 Billion Devices will be connected to internet
+
+	# Smart Sensor
+	# Smart Home
+	# Smart Grid for Sensing Electricity 
+	# Smart City - Traffic System
+
+Uses:
+	# Monitoring production Lines
+	# Smart Meters for utility systems
+	# Identifying pets and farm Animals
+	# Thermostats, lightbulbs
+	# Environmental Monitoring
+	# Infrastructure Management
+	# industrial Applications
+	# Energy Managements
+	# Medical and HealthCare Systems
+	# Building and Home Autmoation System
+	# Anything Mechanical can be connected to internet
+
+Advantages:
+	High on Volume, Velocity
+	low On Varietty
+
+	Which Makes easier for Machines to use data
+	
+
