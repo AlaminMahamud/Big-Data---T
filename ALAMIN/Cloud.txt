@@ -1,0 +1,7 @@
+Cloud 
+
+IaaS - Infrastructure As a Service
+PaaS - Platform As A Service
+SaaS - Software As A Service
+DaaS - Data As A Service
+
