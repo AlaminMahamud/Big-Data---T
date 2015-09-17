@@ -1,0 +1,45 @@
+Challenges With Anonymity
+
+De-Anonymizing Data
+
+	Identifying respondents from Netflix
+	Prize via IMDb reviews
+	(Arvind Narayanan and Vitaly Shmatikov)
+
+	Identifying people from social network
+	by matching shapes
+
+Social Network Graph
+
+De-Anonymizing Public Records
+
+Voter List
+	Ethnicity
+	Visit Date
+	Diagnosis
+	Procedure
+	Medication
+	Total Charge
+
+Medical Data
+	Name
+	Address
+	Date Registered
+	Party Affliation
+	Date Last Voted
+
+Matching Patterns
+	Zip 
+	Birthday
+	Sex
+
+Protecting Public Records
+	Removing HIPAA-protected info, only 0,04% of individuals can 
+	be identified
+		(Latanya Sweeney)
+
+	Re-identifying anonymized data is labor intensive and requires 
+	"massive statistical and data management skills." (Paul Ohm)
+
+
+	

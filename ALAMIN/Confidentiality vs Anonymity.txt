@@ -1,0 +1,15 @@
+Confidentiality vs Anonymity
+
+PII
+	Personally Identifiable information
+
+NPI 
+	Nonpublic Information
+
+Limits of Confidentiality
+
+Challenges
+	Protect and access data
+	Data-branch insurance
+	information to store
+
