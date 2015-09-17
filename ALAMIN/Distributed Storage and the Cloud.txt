@@ -1,0 +1,19 @@
+Distributed Storage and the Cloud
+
+# Typical Single Data Storage
+	
+	Each Data is stored in some particular blocks contains 0 and 1 
+	Also have a ERROR Connection Code
+
+# TO Reduce One Computer Storage Problems
+	## The best way to create a SAN [STORAGE AREA NETWORK]
+
+# Cloud Storage
+	SCALABILITY
+
+# Popular Web Storage Cloud
+	AMAZON S3
+
+FASTER, AND BIG SIZE needs handsome amount of money
+
+Researcher shown that most data once accessed and never s
