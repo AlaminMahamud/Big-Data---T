@@ -1,0 +1,20 @@
+Additional Vs
+
+Volume 
+Variety
+Velocity
+
+Veracity
+Validity
+Value
+Variability
+
+Venue
+Vocabulary
+Vagueness
+
+Special Challenges with Big Data
+1. Responsibilities are spread out
+2. Different people prepare, analyze and apply the data
+3. There is a greater need to think about the quality
+4. There is a greater need to think about the meaning
